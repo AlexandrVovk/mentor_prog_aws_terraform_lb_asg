@@ -1,7 +1,6 @@
 <h3>Task:</h3>
 <lo>
-<li>  </li>
-<li>Allows external connections from instance in priv subnet</li>
+<li>Load Balancer + Auto scaling group with 3 instances ( nginx )  </li>
 </lo>
 
 
